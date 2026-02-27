@@ -60,7 +60,7 @@ window.projectData = [
         "description": "High-quality architectural visualizations and renders showcasing design concepts bridging the gap between drawings and visual storytelling.",
         "tags": ["3D Rendering", "Visualization", "Design"],
         "items": [
-            { "type": "image", "src": "images/Projects/Visualization/1.png" },
+            { "type": "image", "src": "images/Projects/Visualization/1.jpg" },
             { "type": "image", "src": "images/Projects/Visualization/2.png" },
             { "type": "image", "src": "images/Projects/Visualization/3.png" },
             { "type": "image", "src": "images/Projects/Visualization/4.png" }
